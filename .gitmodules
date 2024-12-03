@@ -1,0 +1,9 @@
+[submodule "Fraud-Detection"]
+	path = Fraud-Detection
+	url = git@github.com:GauravGit2024/Fraud-Detection.git
+[submodule "C-Labs"]
+	path = C-Labs
+	url = git@github.com:GauravGit2024/C-Labs.git
+[submodule "health-tracker"]
+	path = health-tracker
+	url = git@github.com:GauravGit2024/health-tracker.git
