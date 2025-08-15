@@ -7,3 +7,9 @@
 [submodule "health-tracker"]
 	path = health-tracker
 	url = git@github.com:GauravGit2024/health-tracker.git
+[submodule "CFlask"]
+	path = CFlask
+	url = https://github.com/GauravGit2024/CFlask.git
+[submodule "system-call-implementation-in-XV6"]
+	path = system-call-implementation-in-XV6
+	url = git@github.com:GauravGit2024/system-call-implementation-in-XV6.git
